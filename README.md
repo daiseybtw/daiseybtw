@@ -4,7 +4,9 @@ I'm Daisey,
 
 I like to get involved with cloud architecture, software engineering, technology in general and writing. I'm also way to involved with podcasts, in fact I've always wanted to start one!
 
-😄 Pronouns: She/Her
+I love to try new things so please reach out and recommend some new coffee blends or food!
+
+😄 Pronouns: She/Her <br>
 📫 How to reach me: hi@daisey.io
 
 <!--
