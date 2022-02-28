@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Daisey,
+
+I like to get involved with cloud architecture, software engineering, technology in general and writing. I'm also way to involved with podcasts, in fact I've always wanted to start one!
+
+😄 Pronouns: She/Her
+📫 How to reach me: hi@daisey.io
+
 <!--
 **daiseybtw/daiseybtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
